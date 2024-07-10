@@ -8,7 +8,12 @@
 // var z=x
 // console.log(x)
 
+// let x=10
+// let y= 12
+// let z= x+y
+// console.log(z)
+
 let x=10
 let y= 12
-let z= x+y
+let z= x-y
 console.log(z)
